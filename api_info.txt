@@ -1,0 +1,9 @@
+80f3c44476ef887465aa2613
+https://v6.exchangerate-api.com/v6/YOUR-API-KEY/latest/USD
+
+CURRENCYS
+
+Real brasileiro => BRL
+Peso argentino => ARS
+Dolar Americano => USD
+Peso colombiano => COP

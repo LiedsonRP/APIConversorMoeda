@@ -1,2 +1,2 @@
-# APIConversorMoeda
-Conversão de moeda em tempo real
+# conversormoeda
+Conversor de moedas utilizando API
